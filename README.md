@@ -10,12 +10,12 @@ I made the code easy to learn and use so everyone can create there own game but 
 2. More Code
 
 # Code
-tx:, ###, = Displays text
-spr, ###, = Loads a sprite and draws them (so far there is only 'player')
-spx, ###, #, = Sets a sprites x pos
-spy, ###, #, = Sets a sprites y pos
-drw, = Everything drawn gets put on display
-var, #, #, = Uses one of the 20 variables and sets it (YOU CANT DO ANYTHING WITH THESE ''YET'')
-glp, #, = Starts the gameloop and type (IS NOT IMPLEMENTED ''YET'')
-wat, #, = Waits # secs
-but, #, #, = If button pressed (a or b) and wich one and what code to do (This will varry depending on what gameloop you use) (IS NOT IMPLEMENTED ''YET'')
+1. tx:, ###, = Displays text
+2. spr, ###, = Loads a sprite and draws them (so far there is only 'player')
+3. spx, ###, #, = Sets a sprites x pos
+4. spy, ###, #, = Sets a sprites y pos
+5. drw, = Everything drawn gets put on display
+6. var, #, #, = Uses one of the 20 variables and sets it (YOU CANT DO ANYTHING WITH THESE ''YET'')
+7. glp, #, = Starts the gameloop and type (IS NOT IMPLEMENTED ''YET'')
+8. wat, #, = Waits # secs
+9. but, #, #, = If button pressed (a or b) and wich one and what code to do (This will varry depending on what gameloop you use) (IS NOT IMPLEMENTED ''YET'')
