@@ -3,7 +3,7 @@ I made the code easy to learn and use so everyone can create there own game but 
 
 I am going to release the game on v1 and it it currently b0.5
 
-# REMEMBER SOME OF THE STUFF IN THE GAME ARE NOT IMPLEMENTED LIKE:
+# REMEMBER SOME OF THE STUFF IN THE GAME ARE NOT IMPLEMENTED/WORK LIKE:
 1. The new button does not really work
 2. Some of the code
 3. slots 2 and 3 for open goes strate to 1
@@ -22,3 +22,4 @@ I am going to release the game on v1 and it it currently b0.5
 8. wat, #, = Waits # secs
 9. but, #, #, = If button pressed (a or b) and wich one and what code to do (This will varry depending on what gameloop you use) (IS NOT IMPLEMENTED ''YET'')
 10. pix, ###, #, #, = Draws a black or white pixel at a x and y cords
+11. fot, #, = changes the font 1 = 3x5 2 = 5x7 3 = 8x8
