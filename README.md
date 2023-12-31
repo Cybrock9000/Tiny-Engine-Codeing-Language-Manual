@@ -1,6 +1,8 @@
 # Tiny-Engine-Codeing-Language-Manual
 I made the code easy to learn and use so everyone can create there own game but you can only have 50 lines of code for each game
 
+I am going to release the game on v1 and it it currently b0.5
+
 # REMEMBER SOME OF THE STUFF IN THE GAME ARE NOT IMPLEMENTED LIKE:
 1. The new button does not really work
 2. Some of the code
