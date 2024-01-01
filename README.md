@@ -8,8 +8,7 @@ I am going to release the game on v1 and it it currently b0.5
 2. Some of the code
 3. slots 2 and 3 for open goes strate to 1
 # Stuff I want to add:
-1. Better menu
-2. More Code
+1. More Code
 
 # Code
 1. tx:, ###, = Displays text
